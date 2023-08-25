@@ -22,6 +22,7 @@ Built a todo application using Laravel, Tailwind, and JavaScript technology
 <img align="left" src="https://drive.google.com/uc?id=1KegxaYJ273MZRbK7cEjlCPHJ_4UHXnh0" width="800">
 
 
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
