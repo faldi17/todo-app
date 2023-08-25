@@ -1,3 +1,18 @@
+# Todo App
+Built a todo application using Laravel, Tailwind, and JavaScript technology
+
+## Screenshots
+
+<!-- Replace YOUR_FILE_ID with the actual ID of your image file -->
+<img align="left" src="https://drive.google.com/uc?id=1Ow4cYaNHNWetScfDnkNF6JbTJ_V3TMKP" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1NDRCHUewBgSuecLjIrkaf0YJYrvZF3Lw" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1t7ysDrJ4Pj5DXTsordCw-tAMFUeD0kQ-" width="800">
+<img align="left" src="https://drive.google.com/uc?id=14V8Zu2wBJPXSePE8HtiqgruHcIcZ8m-s" width="800">
+<img align="left" src="https://drive.google.com/uc?id=15WR9wKNQWzAY0zYNcxTOnfi-sk9EvaBw" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1kIIQve_8b079xjeNL_E282txfzldFMnO" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1KegxaYJ273MZRbK7cEjlCPHJ_4UHXnh0" width="800">
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
