@@ -20,7 +20,7 @@ Built a todo application using Laravel, Tailwind, and JavaScript technology
 <img align="left" src="https://drive.google.com/uc?id=15WR9wKNQWzAY0zYNcxTOnfi-sk9EvaBw" width="800">
 <img align="left" src="https://drive.google.com/uc?id=1kIIQve_8b079xjeNL_E282txfzldFMnO" width="800">
 <img align="left" src="https://drive.google.com/uc?id=1KegxaYJ273MZRbK7cEjlCPHJ_4UHXnh0" width="800">
-<p></p>
+<br><br>
 
 ## About Laravel
 
