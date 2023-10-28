@@ -13,13 +13,13 @@ Built a todo application using Laravel, Tailwind, and JavaScript technology
 ## Screenshots
 
 <!-- Replace YOUR_FILE_ID with the actual ID of your image file -->
-<img align="left" src="https://drive.google.com/uc?id=1Ow4cYaNHNWetScfDnkNF6JbTJ_V3TMKP" width="800">
-<img align="left" src="https://drive.google.com/uc?id=1NDRCHUewBgSuecLjIrkaf0YJYrvZF3Lw" width="800">
-<img align="left" src="https://drive.google.com/uc?id=1t7ysDrJ4Pj5DXTsordCw-tAMFUeD0kQ-" width="800">
-<img align="left" src="https://drive.google.com/uc?id=14V8Zu2wBJPXSePE8HtiqgruHcIcZ8m-s" width="800">
-<img align="left" src="https://drive.google.com/uc?id=15WR9wKNQWzAY0zYNcxTOnfi-sk9EvaBw" width="800">
-<img align="left" src="https://drive.google.com/uc?id=1kIIQve_8b079xjeNL_E282txfzldFMnO" width="800">
-<img align="left" src="https://drive.google.com/uc?id=1KegxaYJ273MZRbK7cEjlCPHJ_4UHXnh0" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1zEKPgxj10C3ONft7QL9nPTwsme8sqPHQ" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1jsYgPYh5h1qYcPn-Cf50xI6Q2jqDr4AT" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1mAsO4DeyfU5ZePKFrUvlnvmH0NdkTUeZ" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1FryrJOhnKdE4EZMCoZrv5ezGk8rM4nJp" width="800">
+<img align="left" src="https://drive.google.com/uc?id=17n2zRjW72fihG9H2o92wW-oanKPYcluQ" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1cvw1tQRkXAbkhmmIXtlDXsGsm9GlAqzQ" width="800">
+<img align="left" src="https://drive.google.com/uc?id=1myPKQvCJe_cG-7XNTQ3MWE_P4IdD2J21" width="800">
 
 
 ## About Laravel
